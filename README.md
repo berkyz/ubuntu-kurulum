@@ -16,8 +16,17 @@ Rufus'u İndirin ve Çalıştırın: Rufus'u resmi web sitesinden indirip bilgis
 USB Belleği ve ISO Dosyasını Seçin: Rufus'u açtıktan sonra, sol taraftaki listeden USB belleğinizi seçin. Sağ taraftaki "Açılış Yöntemi" bölümünden indirdiğiniz Ubuntu ISO dosyasını seçin.
 Yazdırma Yöntemini Belirleyin: Yazdırma yöntemini "ISO" olarak seçin.
 Başlat'a Tıklayın: İşlemi onaylayarak USB belleğinizi Ubuntu yükleme diski haline getirin.
-Ventoy'u İndirin ve Çalıştırın: Ventoy'un resmi web sitesinden indirip bilgisayarınıza kurun.
+Ventoy'u İndirin ve Çalıştırın: Ventoy’u İndirin Ventoy’un en güncel sürümünü resmi web sitesinden indirin. .zip dosyasını indirip açarak bir klasöre çıkartın.
 
+Ventoy’u Çalıştırın Çıkardığınız dosyaların içinde "Ventoy2Disk.exe" adlı uygulamayı bulun ve çalıştırın. Yönetici izni isteyebilir, "Evet" diyerek izin verin.
+
+USB Belleği Seçin Ventoy penceresinde, üst kısımda USB belleğinizin doğru seçildiğinden emin olun. Yanlış bir sürücü seçimi veri kaybına yol açabilir, dikkatli olun!
+
+Ventoy’u USB Belleğe Kurun "Install" butonuna tıklayın. Bu işlem USB belleğinizdeki tüm verileri sileceği için iki kez onay isteyecektir. Onayladıktan sonra Ventoy kurulumu başlayacak ve kısa sürede tamamlanacaktır.
+
+ISO Dosyalarını Kopyalayın Kurulum tamamlandıktan sonra USB belleğinize doğrudan ISO dosyalarını kopyalayabilirsiniz. Ventoy, kopyaladığınız tüm ISO dosyalarını otomatik olarak algılayacak ve başlatma ekranında seçim yapmanıza olanak tanıyacaktır.
+
+Ventoy’u Kullanma Bilgisayarınızı yeniden başlatın ve önyükleme sırasında USB belleğinizi seçin. Ventoy’un başlangıç ekranında USB belleğinizdeki ISO dosyalarını göreceksiniz. Buradan istediğiniz ISO’yu seçerek kuruluma veya kurtarma işlemine başlayabilirsiniz.
 Linux Kullanıcıları:
 
 Terminal'i açın ve aşağıdaki komutu çalıştırın:
