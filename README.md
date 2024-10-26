@@ -83,3 +83,5 @@ Kurulum Sonrası Adımlar
 Sistem Güncellemeleri: Kurulum tamamlandıktan sonra sisteminizi güncellemek için aşağıdaki komutu terminalde çalıştırın:
 
 sudo apt update && sudo apt upgrade
+
+Ubuntu kurulum videosu youtube linki:https://www.youtube.com/watch?v=PCEwryzMFGM
